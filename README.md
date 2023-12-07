@@ -8,3 +8,9 @@ The main board uses all smd capacitors that are only marked with capacitance and
 
 Keep in mind that my console is a very early production unit that uses a revision B main board
 which was apparently not used for very long. Some info here may not apply to the later rev C boards.
+
+I made a DigiKey list for replacement caps utilizing the following:
+Nichicon UWD caps for the main board
+Nichicon UCS and UPA for the power supply
+Chemi-Con KMG for the I/O board
+https://www.digikey.com/en/mylists/list/SPZKPT0VS9
