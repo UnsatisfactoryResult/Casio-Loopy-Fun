@@ -6,6 +6,8 @@ You'll find datasheets for the through hole capacitors used on the I/O board and
 
 The main board uses all smd capacitors that are only marked with capacitance and voltage.
 
+C504 on the I/O board is most likely installed backwards. Ignore the board markings, and confirm with a multi meter. (Thanks to Kasami for pointing this out.)
+
 Keep in mind that my console is a very early production unit that uses a revision B main board
 which was apparently not used for very long. Some info here may not apply to the later rev C boards.
 
