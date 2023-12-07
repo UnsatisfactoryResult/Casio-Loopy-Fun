@@ -10,7 +10,11 @@ Keep in mind that my console is a very early production unit that uses a revisio
 which was apparently not used for very long. Some info here may not apply to the later rev C boards.
 
 I made a DigiKey list for replacement caps utilizing the following:
+
 Nichicon UWD caps for the main board
+
 Nichicon UCS and UPA for the power supply
+
 Chemi-Con KMG for the I/O board
+
 https://www.digikey.com/en/mylists/list/SPZKPT0VS9
