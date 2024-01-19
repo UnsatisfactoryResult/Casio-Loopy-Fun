@@ -1,0 +1,1 @@
+The Casio Magical Shop is an add-on module for the Casio Loopy. It is inserted into the Loopy's cartridge slot, has another cartridge slot of its own, and has composite video and stereo audio RCA INPUTS on the back. A Sony CXA1228S video Decoder is repsonsible for decoding the composite video signal and converting it to YUV (Y, B-Y, R-Y)
