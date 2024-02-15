@@ -25,4 +25,8 @@ Nichicon UCS and UPA for the power supply
 
 Chemi-Con KMG for the I/O board
 
+Rev B
 https://www.digikey.com/en/mylists/list/SPZKPT0VS9
+
+Rev C
+Coming soon...
