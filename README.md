@@ -19,7 +19,7 @@ which was apparently not used for very long. Some info here may not apply to the
 
 I made a DigiKey list for replacement caps utilizing the following:
 
-Nichicon UWD caps for the main board
+Nichicon UWD caps for the main board (Rev C has 3 Panasonic KS series)
 
 Nichicon UCS and UPA for the power supply
 
