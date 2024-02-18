@@ -29,4 +29,4 @@ Rev B
 https://www.digikey.com/en/mylists/list/SPZKPT0VS9
 
 Rev C
-Coming soon...
+https://www.digikey.com/en/mylists/list/SW7U7HUUNO
